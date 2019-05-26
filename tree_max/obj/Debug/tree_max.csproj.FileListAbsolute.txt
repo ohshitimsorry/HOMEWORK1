@@ -1,0 +1,6 @@
+C:\Users\Anuar\source\repos\tree_max\tree_max\bin\Debug\tree_max.exe.config
+C:\Users\Anuar\source\repos\tree_max\tree_max\bin\Debug\tree_max.exe
+C:\Users\Anuar\source\repos\tree_max\tree_max\bin\Debug\tree_max.pdb
+C:\Users\Anuar\source\repos\tree_max\tree_max\obj\Debug\tree_max.csproj.CoreCompileInputs.cache
+C:\Users\Anuar\source\repos\tree_max\tree_max\obj\Debug\tree_max.exe
+C:\Users\Anuar\source\repos\tree_max\tree_max\obj\Debug\tree_max.pdb
