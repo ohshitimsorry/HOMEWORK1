@@ -1,0 +1,7 @@
+C:\Users\Anuar\source\repos\colors\colors\obj\Debug\colors.csprojAssemblyReference.cache
+C:\Users\Anuar\source\repos\colors\colors\obj\Debug\colors.csproj.CoreCompileInputs.cache
+C:\Users\Anuar\source\repos\colors\colors\bin\Debug\colors.exe.config
+C:\Users\Anuar\source\repos\colors\colors\bin\Debug\colors.exe
+C:\Users\Anuar\source\repos\colors\colors\bin\Debug\colors.pdb
+C:\Users\Anuar\source\repos\colors\colors\obj\Debug\colors.exe
+C:\Users\Anuar\source\repos\colors\colors\obj\Debug\colors.pdb
