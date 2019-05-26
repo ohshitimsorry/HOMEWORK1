@@ -1,0 +1,7 @@
+C:\Users\Anuar\source\repos\brackets\brackets\obj\Debug\brackets.csprojAssemblyReference.cache
+C:\Users\Anuar\source\repos\brackets\brackets\obj\Debug\brackets.csproj.CoreCompileInputs.cache
+C:\Users\Anuar\source\repos\brackets\brackets\bin\Debug\brackets.exe.config
+C:\Users\Anuar\source\repos\brackets\brackets\bin\Debug\brackets.exe
+C:\Users\Anuar\source\repos\brackets\brackets\bin\Debug\brackets.pdb
+C:\Users\Anuar\source\repos\brackets\brackets\obj\Debug\brackets.exe
+C:\Users\Anuar\source\repos\brackets\brackets\obj\Debug\brackets.pdb
