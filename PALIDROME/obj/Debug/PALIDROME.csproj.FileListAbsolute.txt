@@ -1,0 +1,7 @@
+C:\Users\Anuar\source\repos\PALIDROME\PALIDROME\bin\Debug\PALIDROME.exe.config
+C:\Users\Anuar\source\repos\PALIDROME\PALIDROME\bin\Debug\PALIDROME.exe
+C:\Users\Anuar\source\repos\PALIDROME\PALIDROME\bin\Debug\PALIDROME.pdb
+C:\Users\Anuar\source\repos\PALIDROME\PALIDROME\obj\Debug\PALIDROME.csprojAssemblyReference.cache
+C:\Users\Anuar\source\repos\PALIDROME\PALIDROME\obj\Debug\PALIDROME.csproj.CoreCompileInputs.cache
+C:\Users\Anuar\source\repos\PALIDROME\PALIDROME\obj\Debug\PALIDROME.exe
+C:\Users\Anuar\source\repos\PALIDROME\PALIDROME\obj\Debug\PALIDROME.pdb
